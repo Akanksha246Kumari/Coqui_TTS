@@ -1,0 +1,33 @@
+# Virtual environment
+venv/
+.env/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# XTTS pre-trained model (large files)
+model/
+*.pth
+*.pt
+
+# Voice samples (manually added)
+Voice/
+
+# Output audio files
+output/
+*.wav
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# macOS-specific files
+.DS_Store
+
+# Log files
+*.log
+
+# VS Code settings (optional)
+.vscode/
