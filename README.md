@@ -42,7 +42,7 @@ This project allows you to generate **realistic multilingual speech** from text 
 
 ```bash
 git clone https://github.com/your-username/tts-multilingual.git
-cd tts-multilingual
+cd TTs
 ```
 
 ### 2. Create a Virtual Environment
